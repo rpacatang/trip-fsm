@@ -64,4 +64,4 @@ Technologies and tools used
 * [Eclipse](https://eclipse.org/)
 
 ## Author
-* **Ralph Juncel Pacatang** - [Github](https://github.com/rpacatang) [Linkedin](https://www.linkedin.com/in/ralph-juncel-pacatang-8711a76a/)
+* **Ralph Juncel Pacatang** - [Github](https://github.com/rpacatang) - [Linkedin](https://www.linkedin.com/in/ralph-juncel-pacatang-8711a76a/)
